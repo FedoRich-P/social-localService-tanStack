@@ -22,5 +22,41 @@
     "text": "А ты как?",
     "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
     "createdAt": 1704901870088
+  },
+  "bfbfe663-d5df-48fa-88e7-8b867964dd31": {
+    "id": "bfbfe663-d5df-48fa-88e7-8b867964dd31",
+    "text": "asdfasdfwerrtwe",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738908449054
+  },
+  "dab0e924-7060-49bc-907a-30127799ad79": {
+    "id": "dab0e924-7060-49bc-907a-30127799ad79",
+    "text": "dffghdffghdfgh",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738908529353
+  },
+  "99a9bc89-b582-454c-ac13-389a706e43a5": {
+    "id": "99a9bc89-b582-454c-ac13-389a706e43a5",
+    "text": "ndfndffgndffgndffgn",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738908538761
+  },
+  "78831a8f-678b-4563-a198-439e800c81ca": {
+    "id": "78831a8f-678b-4563-a198-439e800c81ca",
+    "text": "wertwertwertwerrt",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738914459512
+  },
+  "e1151a01-1868-4213-9a54-565eff23c715": {
+    "id": "e1151a01-1868-4213-9a54-565eff23c715",
+    "text": "werwerrtwewerrtwerrt",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738914486423
+  },
+  "59acea8d-522d-451f-b6b6-23a3b564fa20": {
+    "id": "59acea8d-522d-451f-b6b6-23a3b564fa20",
+    "text": "werwerrtwewerrtwerrt",
+    "authorId": "a62db343-bb41-4ae7-88a7-3ccd81cd3a2d",
+    "createdAt": 1738914546736
   }
 }

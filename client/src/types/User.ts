@@ -7,6 +7,13 @@ export const UserSchema = z.object({
 
 export type User = z.infer<typeof UserSchema>
 
+
+export const UserAuthSchema = z.object({
+  username: z.string(),
+  password: z.string()
+})
+
+export type UserAuth = z.infer<typeof UserAuthSchema>
 // export type User = {
 //   id: string,
 //   username: string,

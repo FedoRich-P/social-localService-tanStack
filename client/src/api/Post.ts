@@ -32,6 +32,13 @@ export function usePostList() {
   return { state, reFetch };
 }
 
+export function createPost(text: string) {
+  return axios.post(`/api/posts`, { text }).then(response => response);
+}
+
+
+// types
+
 type FetchPostListResponse = z.infer<typeof FetchPostListSchema>
 
 type IdleRequestState = {

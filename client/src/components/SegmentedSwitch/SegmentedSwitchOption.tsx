@@ -14,11 +14,9 @@ export const SegmentedSwitchOption: FC<ISegmentedSwitchOptionProps> = ({
   onClick,
 }) => {
   return (
-    <button
-      className="segmented-switch-option"
+    <button className="segmented-switch-option"
       data-active={isActive}
-      onClick={onClick}
-    >
+      onClick={onClick}>
       {title}
     </button>
   );
